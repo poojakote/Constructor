@@ -9,6 +9,8 @@ public class Practice5 {
 		// TODO Auto-generated method stub
 
 		Practice5 ref = new Practice5(10);
+		
+		System.out.println("My name is Pooja");
 	}
 
 }
